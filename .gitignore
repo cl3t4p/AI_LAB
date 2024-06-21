@@ -1,5 +1,5 @@
 # Python Notebook
 .ipynb_checkpoints/
-*.ipynb
+
 
 __pycache__/
